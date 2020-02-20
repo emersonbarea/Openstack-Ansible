@@ -2,7 +2,7 @@
 
 First of all, install Ubuntu Server LTS 18.04. 
 
-run '''git clone https://github.com/emersonbarea/Openstack-Ansible.git''' in your personal computer
+run ```git clone https://github.com/emersonbarea/Openstack-Ansible.git``` in your personal computer
 
 edit '''vi IPs.conf'''
 
